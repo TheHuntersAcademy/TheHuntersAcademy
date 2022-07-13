@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 
 * {
     margin: 0 auto;
@@ -34,6 +34,6 @@
 }
 
 #menu-h ul li:last-child a {
-    float: right;
+    float: left;
     background-color: rgb(24, 139, 233);
 }

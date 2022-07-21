@@ -59,11 +59,6 @@ footer {
     line-height: 100px;
 }
 
-@media (max-width: 768px) {
-    .nome-da-classe {
-      color: #fff; /* elemento que vai ser modificado/adicionado/sobrescrito nessa resolução */
-    }
-  }
 
   .img-responsive {
     width: 100%; /* ... terão sempre 100% de largura*/

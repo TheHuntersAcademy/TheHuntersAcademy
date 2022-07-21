@@ -58,3 +58,9 @@ footer {
     text-align: center;
     line-height: 100px;
 }
+
+@media (max-width: 768px) {
+    .nome-da-classe {
+      color: #fff; /* elemento que vai ser modificado/adicionado/sobrescrito nessa resolução */
+    }
+  }

@@ -58,11 +58,3 @@ footer {
     text-align: center;
     line-height: 100px;
 }
-
-
-  .img-responsive {
-    width: 100%; /* ... terão sempre 100% de largura*/
-    max-width: 100%; /* ...aqui asseguramos que essa imagem não vai 'esticar'*/
-    height: auto; /*...a altura será sempre proporcional à largura*/
-    display: block;
-  }
